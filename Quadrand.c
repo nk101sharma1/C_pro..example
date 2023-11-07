@@ -23,5 +23,10 @@ int main()
      {
         printf("It is fourth co-ordinate:");
      }
+     
+     else if(x==0 && y==0)
+     {
+      printf("It is origin :");
+     }
 
 }
